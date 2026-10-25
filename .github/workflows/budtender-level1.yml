@@ -1,0 +1,39 @@
+name: MIG-2 Budtender Committed Level 1
+on:
+  push:
+    paths:
+      - '.github/workflows/budtender-level1.yml'
+      - 'clients/**'
+      - 'src/budtender/**'
+      - 'packages/420-gaming-sdk/**'
+      - 'assets/budtender/**'
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  level1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Assert imported source and assets exist
+        run: |
+          test -f clients/budtender-web-v1/src/server.ts
+          test -f src/budtender/BudtenderApplicationService.ts
+          test -f packages/420-gaming-sdk/src/index.js
+          test "$(find assets/budtender -name '*.png' | wc -l)" -ge 590
+      - name: Validate web runtime and tests
+        working-directory: clients/budtender-web-v1
+        run: |
+          npm run check
+          npm test
+          npm run security
+          npm run ops
+      - name: Validate canonical SDK
+        working-directory: packages/420-gaming-sdk
+        run: npm test
+      - name: Validate isolated Budtender access
+        working-directory: clients/budtender-access-v1
+        run: npm test
