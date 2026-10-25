@@ -1,0 +1,131 @@
+131fc7abd814febb9edd5caeb2d0f973350a5418 2026-10-18 23:58:17 -0600 abvhiael crowley Add files via upload
+9f11122758e16fbb0cc67ba6abb3eb4cc3b3e853 2026-10-18 23:58:01 -0600 abvhiael crowley Rename assets/budtender/characters/budtender1/outfit_01/idle_right_manifest.json to assets/budtender/characters/budtender1/outfit_01/idle_right/idle_right_manifest.json
+93976f7f0bedeb582d9b6106e5b071a6c36a8fab 2026-10-18 23:57:39 -0600 abvhiael crowley Add files via upload
+8d20dc64ad7b4a0255876ceba6a767ce07c87292 2026-10-18 23:43:16 -0600 abvhiael crowley Add files via upload
+a2b69fbbb8167c286906ad4af2a06dff8a9eb534 2026-10-18 23:43:01 -0600 abvhiael crowley Rename assets/budtender/characters/budtender1/outfit_01/idle_left_manifest.json to assets/budtender/characters/budtender1/outfit_01/idle_left/idle_left_manifest.json
+c3fd5dc1c1dbfb31793f25c73346f7e6afdc363e 2026-10-18 23:42:39 -0600 abvhiael crowley Add files via upload
+98636d747965154c1670f9fd4d611747d009cac4 2026-10-18 23:37:56 -0600 abvhiael crowley Add files via upload
+c388e0d803fb7cf35ea97df0f55804d6b9c031ff 2026-10-18 23:37:39 -0600 abvhiael crowley Rename assets/budtender/characters/budtender1/outfit_01/exit_manifest.json to assets/budtender/characters/budtender1/outfit_01/exit/exit_manifest.json
+e99edb0ff359b5738299f8b903a4d424a4368483 2026-10-18 23:37:17 -0600 abvhiael crowley Add files via upload
+b4c9aa75ebbf97eaa64ec8c9c5ac7fe9c7c8ee7c 2026-10-18 23:30:50 -0600 abvhiael crowley Add files via upload
+03f504b57ee1936a22d96f975c916c48e07b059c 2026-10-18 23:30:33 -0600 abvhiael crowley Rename assets/budtender/characters/budtender1/outfit_01/purchase_complete_manifest.json to assets/budtender/characters/budtender1/outfit_01/purchase_complete/purchase_complete_manifest.json
+b5793e8b7111d181a1902e856b44a338bc49cc2b 2026-10-18 23:30:07 -0600 abvhiael crowley Add files via upload
+74b32ef122f8f1720f431a0e775dc3891208ca92 2026-10-18 23:24:02 -0600 abvhiael crowley Add files via upload
+9ea5446e4d1fe99031c9622dde65f2ac4a66dc6a 2026-10-18 23:23:39 -0600 abvhiael crowley Rename assets/budtender/characters/budtender1/outfit_01/browse_product_manifest.json to assets/budtender/characters/budtender1/outfit_01/browse_product/browse_product_manifest.json
+4cb68722212be329e0ecfdb92e60f51ef7dd5a82 2026-10-18 23:23:08 -0600 abvhiael crowley Add files via upload
+4197d1a0e6ca722af1af7525b40cfcaf91fd8c14 2026-10-18 23:22:04 -0600 abvhiael crowley Add files via upload
+8363e83271fd1dca0ca469097bda82e401c412eb 2026-10-18 23:17:26 -0600 abvhiael crowley Add files via upload
+9b3cb9b04865ed8dee8e7d8d858d5e429c63c68e 2026-10-18 23:15:05 -0600 abvhiael crowley Add files via upload
+051319bc2338551a1bba170effb1086f2bd3bc93 2026-10-18 23:14:22 -0600 abvhiael crowley Add files via upload
+6267c78343073630bf29854c2b7d34c7974ed8c2 2026-10-18 23:08:14 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_08.png
+cda5d1890e404fdb7c96341d11049bd6ff3dfc45 2026-10-18 23:08:06 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_07.png
+ce7d3205fa2e7d63fbee4e5f6e1f203fb7cd6ed0 2026-10-18 23:07:56 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_06.png
+400981931ca4f32614872456d9f838ccd7bb79cb 2026-10-18 23:07:48 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_05.png
+1a94cfdd5bc305f0f1c7124a2e10762a24a10abd 2026-10-18 23:07:40 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_04.png
+5dbf618d43a72be87c7ee0f7528ab0ce8354022e 2026-10-18 23:07:31 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_03.png
+6a6944c65a9bcbbfecb3f9e22bd547cda8e61fba 2026-10-18 23:07:21 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_02.png
+0deeb3d26fcf3c94eb18aa7d1960acab4c3303ac 2026-10-18 23:07:12 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/frame_01.png
+c961aec80547841c496a919826e9319bb746b00c 2026-10-18 23:06:48 -0600 abvhiael crowley Add files via upload
+597e9a30c7ac6d5786af503acb8b573fe9960ac5 2026-10-18 23:06:14 -0600 abvhiael crowley Create readme.d
+353ec486aac4f03c3b43c6f6847af54422684518 2026-10-18 23:05:44 -0600 abvhiael crowley Delete assets/budtender/characters/budtender1/outfit_01/walk_left
+ab44e593ba51039f7899de15884a11144d1114c7 2026-10-18 23:04:12 -0600 abvhiael crowley Add files via upload
+5552f3a1cf96efe2e1f2d61a93dd29bd09655621 2026-10-18 23:03:38 -0600 abvhiael crowley Create readme.md
+695f11d4705031c6505e67a612882a326e6be54d 2026-10-18 20:59:43 -0600 abvhiael crowley Add files via upload
+e07bccaeee34510fff56dead9f4ed3f423fa6467 2026-10-18 20:59:17 -0600 abvhiael crowley Create walk_left
+32b8ef87c4ddb3b84110ee6e1d7aa55b59397d7d 2026-10-18 20:58:41 -0600 abvhiael crowley Add files via upload
+b96dfa7ea8e844e24281e143387335e77c3af239 2026-10-18 20:58:18 -0600 abvhiael crowley Create readme.md
+0a2fc6885907471248eae9684a535764a8c92bb2 2026-10-18 17:06:44 -0600 abvhiael crowley Add files via upload
+2d021258aa6697e2ddcabb300bdd64221ab3e396 2026-10-18 17:06:21 -0600 abvhiael crowley Create readme.md
+3615e135c8abba4784da2793deb6fcb85cc249dd 2026-10-17 17:08:28 -0600 abvhiael crowley docs(budtender): preserve Phase 3.20 exact-SHA Level 1 qualification
+bb22e64ebeadb5baf5fdcf28ca2b6b4ef9c44544 2026-10-17 16:58:08 -0600 abvhiael crowley fix(budtender): decode only visible sprites during storefront readiness
+1b51ce78cf4968883447f3419c7f1dd49545566c 2026-10-17 16:52:43 -0600 abvhiael crowley fix(budtender): project tier 2 visuals from canonical progression state
+9a594dcb372c86e4227287e26c13599e3f6ff858 2026-10-17 16:52:05 -0600 abvhiael crowley Budtender 3.20: integrate tier 2 progression visuals and tier 3 optional polish; repair layer regression
+b758308a1621e20967f7f75ba9eb76825b62ab6b 2026-10-17 15:46:56 -0600 abvhiael crowley Budtender 3.20: lock production priority tiers and compose first playable visual scene
+67668522614993726eb3be579d2df8983622c784 2026-10-17 15:44:22 -0600 abvhiael crowley docs(budtender): certify Phase 3.19 Level 1 against green SHA
+8aa9ec8a68d3f1132e52e621eac3fae5ee6babb1 2026-10-17 15:30:28 -0600 abvhiael crowley Budtender 3.19: include all 48 registered Phase 3.16 hotspot exports
+623a988e1f8174502104ac0a2921cb4d440fd467 2026-10-17 15:29:31 -0600 abvhiael crowley Budtender 3.19: catalog 416 assets by seven functional export prefixes
+3c8cefc94c4abbe1686568f17658c5b4ee244a65 2026-10-17 15:03:05 -0600 abvhiael crowley docs(budtender): certify Phase 3.18 Level 1 at exact tested SHA
+a5a39cb097cb2588512b743a343b279ca3b02b5f 2026-10-17 13:57:27 -0600 abvhiael crowley Budtender 3.18: implement canonical 15-tier presentation occlusion hierarchy
+c0b1bf6f0a2517fbcb2962bf47a3c9bfb014dcb7 2026-10-17 12:39:25 -0600 abvhiael crowley docs(budtender): certify Phase 3.17 Level 1 against exact green SHA
+693aa782deda755284284edc15c3dac1f0795060 2026-10-17 12:25:44 -0600 abvhiael crowley Budtender 3.17: correct 416-asset storefront and browser smoke expectations
+2e988a4f4859543a4327ec6b302ead3bd57958b6 2026-10-17 18:16:29 +0000 github-actions[bot] Budtender 3.17: resize undersized RGBA assets to 256px height
+9a2b3df69162b2b47da973b1b41e347146f78c3c 2026-10-17 12:16:03 -0600 abvhiael crowley Fix scoped resizing blob validation and workflow trigger
+dd23e25d53d70416b86d9835f5f601be60dc8540 2026-10-17 12:15:33 -0600 abvhiael crowley Budtender 3.17: scoped resize workflow for undersized transparent images
+9d66cf1d65457063ba2a51610ec7a53d208db84f 2026-10-17 11:20:23 -0600 abvhiael crowley Budtender 3.17: register 48 normalized assets with scoped qualification
+822fe1dee76637e1f5dab0d622e649c86bd22d9c 2026-10-17 11:18:19 -0600 abvhiael crowley Budtender 3.17: normalize 38 PNG paths preserving identical Git blobs
+6b868d2a4b805c9a981a6a4458af74a6ca538feb 2026-10-17 10:54:08 -0600 abvhiael crowley Add files via upload
+cc801af9ea23ea804a56580943053249147c92df 2026-10-17 10:52:28 -0600 abvhiael crowley Create readme.md
+24bc6eaedad27fbc2f0610e05686ecd2f45828e0 2026-10-16 18:00:38 -0600 abvhiael crowley chore(budtender): remove obsolete double-suffix originals and one-shot normalizer
+11502e15d751ae84d6c0485ceebe0ec2da11368f 2026-10-16 18:00:21 -0600 abvhiael crowley reconcile(budtender): replay Phase 3.16 hotspot integration on current main
+ac5fd6c0127b221c2a86904b3de3523033ce0057 2026-10-16 17:50:09 -0600 abvhiael crowley Add files via upload
+d06b3b1007f47d4a632846983b8b27ecff162340 2026-10-16 17:49:36 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_store_upgrade.png.png
+6383ceb6a01a5b11340695d661626b48afba7eb1 2026-10-16 17:30:47 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_upgrade_available.png (1).png
+484b6529775339e4d60410dfc373d6f77bf3a1b3 2026-10-16 17:30:31 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_store_upgrade.png (1).png
+12571fa1558b98d8d6199db68f6d66c738c0d965 2026-10-16 17:30:18 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_selected.png (1).png
+2f39ef80a6de51efc6b5e7508e38adff1246f08b 2026-10-16 17:30:04 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_new.png (1).png
+37a31c66e756aec04101cf598401e3b62ce23762 2026-10-16 17:29:49 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_hover.png (1).png
+cb8673a758e6bd10f687c49f4cc5adb208f774a5 2026-10-16 17:29:29 -0600 abvhiael crowley Rename hotspot_cooldown.png.png to hotspot_cooldown.png
+f6aca4469b3a06ed04e4d670967dea55e60788c9 2026-10-16 17:29:15 -0600 abvhiael crowley Rename hotspot_completed.png.png to hotspot_completed.png
+2691c23b0c641306aebc797c28d9abb9d6157161 2026-10-16 17:29:01 -0600 abvhiael crowley Delete assets/budtender/phase-3.16/hotspot_completed.png (1).png
+71f26adfa219e28faa99a95e1f8b079ced3c2a9c 2026-10-16 17:28:37 -0600 abvhiael crowley Rename hotspot_cleaning.png.png to hotspot_cleaning.png
+ab9b802bf3f1ec63cf6ddcc596ae41c068dd79c8 2026-10-16 17:28:17 -0600 abvhiael crowley Rename hotspot_available.png.png to hotspot_available.png
+5ee007c0ffb2f0dafd7722e9a146fc76995693b1 2026-10-16 17:28:00 -0600 abvhiael crowley Rename hotspot_attention.png.png to hotspot_attention.png
+b01f86f3322a2aa6e3bf7ab5a20aa98ac1a1a471 2026-10-16 17:27:44 -0600 abvhiael crowley Rename hotspot_active.png.png to hotspot_active.png
+fb89276cdb26be37b8144962b0b1315b68deadde 2026-10-16 17:27:10 -0600 abvhiael crowley Rename hotspot_cash_register.png.png to hotspot_cash_register.png
+da60acede681564bf6512a74ef78020ff190f35c 2026-10-16 16:34:58 -0600 abvhiael crowley Add files via upload
+a9b57d296c1c907b874632e4b86f4202c7ca5bcc 2026-10-16 16:29:03 -0600 abvhiael crowley Add files via upload
+4d41d0f13473b162263d426ed8893841eb027ec7 2026-10-16 16:27:47 -0600 abvhiael crowley Add files via upload
+343c77332064907fc1358f2d3ef5353cc7eb62be 2026-10-16 16:27:08 -0600 abvhiael crowley Create readme.md
+bc0faa5dafecda3de0620a9581f9953b89cd95fb 2026-10-12 14:40:10 -0600 abvhiael crowley Add files via upload
+fa3ebf8bf70df341a91ad2efa701827ca2bea7e7 2026-10-12 14:38:44 -0600 abvhiael crowley Create readme.md
+fdc2373b2c847fd7ff4ba1ab25c7901ae766111a 2026-10-10 12:06:45 -0600 abvhiael crowley fix(budtender): require successful sprite decoding before declaring storefront ready
+3cea0ca92ccf56af97196618695c3930d294a384 2026-10-10 12:05:43 -0600 abvhiael crowley docs(budtender): specify canonical artwork loader and qualification limits
+fc89610d5c1c579c70113ac50b25156dcdd84707 2026-10-10 12:04:52 -0600 abvhiael crowley build(budtender): expose exact-source artwork qualification command
+6617a8b163558df9cba59a986c4cdc265383c168 2026-10-10 12:04:43 -0600 abvhiael crowley test(budtender): exact-byte audit of all 368 committed production PNGs
+245676750b6a5db575261fae02ced50d23bef861 2026-10-10 12:04:14 -0600 abvhiael crowley docs(budtender): carry audited operational and offline qualification records
+9ad0ca3d77aa413b194d2f62e5cbd89e663f648a 2026-10-10 12:04:12 -0600 abvhiael crowley docs(budtender): carry audited operational and offline qualification records
+f084cc147d422595100735e58e1a98afc9aa5681 2026-10-10 12:04:08 -0600 abvhiael crowley docs(budtender): carry audited operational and offline qualification records
+c1f16191af2aa21137854f346855c9b3a5d8170c 2026-10-10 12:03:50 -0600 abvhiael crowley test(budtender): qualify canonical PNG serving, registry and storefront isolation
+13e65b30ca69784ed783e478bb866026c0cf608b 2026-10-10 12:03:25 -0600 abvhiael crowley ci(budtender): reconcile web qualification and scoped access coverage
+d17a6d9c0ee5046c7a90a25aa8ed18bb3a38cd85 2026-10-10 12:03:23 -0600 abvhiael crowley ci(budtender): reconcile web qualification and scoped access coverage
+435dfc73e3429bde3b99bc69bd4041ea98520660 2026-10-10 12:02:45 -0600 abvhiael crowley fix(budtender): reconcile audited deterministic domain protections
+e9c861c591df1facdf5fd0c3f8f395ef1ba1ad25 2026-10-10 12:02:41 -0600 abvhiael crowley fix(budtender): reconcile audited deterministic domain protections
+36fad17e9a3639f64a19d3e02c270bdf010cd3a3 2026-10-10 12:02:39 -0600 abvhiael crowley fix(budtender): reconcile audited deterministic domain protections
+b75e750d41fc9dd8d25c016e2c9a1b71b828fac3 2026-10-10 12:02:35 -0600 abvhiael crowley fix(budtender): reconcile audited deterministic domain protections
+dbf56b4bfa99b983c572e69c4024809d65b468a0 2026-10-10 12:02:03 -0600 abvhiael crowley feat(budtender): restore audited application and offline progression services
+f12a35ffeeb2b3a9a64a43d369bee62074b9646c 2026-10-10 12:02:00 -0600 abvhiael crowley feat(budtender): restore audited application and offline progression services
+2707cec0a3cf7cb23a3559946850a26890d1074b 2026-10-10 12:01:50 -0600 abvhiael crowley feat(budtender): port audited web host and tests onto current main
+c6da9f9ef44d4bdee88241f6745fad41c1dd1341 2026-10-10 12:01:47 -0600 abvhiael crowley feat(budtender): port audited web host and tests onto current main
+ba5a9bcf307d140122271a8e5f48c8b33c135f77 2026-10-10 12:01:45 -0600 abvhiael crowley feat(budtender): port audited web host and tests onto current main
+cce54256e22f5542d03a05e76c10b059449f2063 2026-10-10 12:01:42 -0600 abvhiael crowley feat(budtender): port audited web host and tests onto current main
+eb323fc2dab45b88b344ff31f0450a1689dca6e0 2026-10-10 12:01:27 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+cf55e38b7a9de114d0af0d526a1ff54810d4b8d7 2026-10-10 12:01:25 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+71cbf68a4b4e0eb52b34e6c256f702184ffcaea2 2026-10-10 12:01:23 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+8eab58482fc73c1f5b8fb6f0a0d06d9d2b8271c7 2026-10-10 12:01:21 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+920efe127fb2b45b7af8e2d26a2b87b7e911ea06 2026-10-10 12:01:19 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+375b8199b82238ec0f6c15accebb0c1256a21099 2026-10-10 12:01:16 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+b856158e8b9b106bf6d62f5474226c89a2142673 2026-10-10 12:01:14 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+ae0f8677fed4dfe3ebfada6e11f32c6fb9d83d8f 2026-10-10 12:01:11 -0600 abvhiael crowley feat(budtender): reconcile audited web client with artwork-aware presentation
+61aab164c42a23004147791c64503e32d192347c 2026-10-10 11:26:29 -0600 abvhiael crowley Add files via upload
+e4c13cec5bfcc065c1279ba8746400c6fb121926 2026-10-10 11:23:53 -0600 abvhiael crowley Add files via upload
+9db9134a577ee405e41ac3114e2a5c0b4958b220 2026-10-10 11:18:50 -0600 abvhiael crowley Add files via upload
+4f6b24af6ea2d54d8c847a85ef96c4a733b0fd52 2026-10-10 11:16:57 -0600 abvhiael crowley Add files via upload
+2e7dc817952b5109757177881d390ad8b0f1d369 2026-10-10 11:13:14 -0600 abvhiael crowley Add files via upload
+4239065921e2533b5c9002e8b31bc7940647ae7b 2026-10-10 11:11:50 -0600 abvhiael crowley Add files via upload
+f603413201231a87b219948537efe2b8f3138d3e 2026-10-10 11:11:01 -0600 abvhiael crowley Create Readme.md
+de05e9c5c419f36e236602724a609d63286a6ea9 2026-09-09 16:38:52 -0600 abvhiael crowley feat(budtender): add BUD-4 store progression core
+383e914f5600f396f4e489244d6d50b430ad4c99 2026-09-09 16:38:33 -0600 abvhiael crowley docs(budtender): define BUD-4 upgrade loop
+4e369dbfb6c3d44f9a3069cae44ae3b2ea9347e9 2026-09-09 14:57:20 -0600 abvhiael crowley feat(budtender): add deterministic product inventory domain
+9550767ca6a13e7c483367c613622e75e2ed8fd2 2026-09-09 14:57:02 -0600 abvhiael crowley docs(budtender): define BUD-3 product and inventory scope
+b29c818fedbb3c6b5475fd4b9a67682b4354c47e 2026-09-09 12:55:16 -0600 abvhiael crowley feat(budtender): add deterministic BUD-2 customer lifecycle
+f474e44aa8c3cbcc7ac7476b1c25739bc7cbb100 2026-09-09 12:55:00 -0600 abvhiael crowley docs(budtender): define BUD-2 customer system
+4802540621039565e511321280a7731329c2924e 2026-09-09 00:05:59 -0600 abvhiael crowley docs(budtender): close BUD-0 architecture checklist
+e8349472fa1e64447dc834d62a866412638760c1 2026-09-09 00:05:43 -0600 abvhiael crowley docs(budtender): freeze BUD-0 architecture
+dfa9e9b62befa96db80f50ba0525188d6e22c804 2026-09-08 23:55:21 -0600 abvhiael crowley docs(budtender): add BUD-1 completion checklist
+96e04533ece17252a04155e23178e908676e64a0 2026-09-08 23:55:07 -0600 abvhiael crowley docs(budtender): document BUD-1 simulation boundary
+d0e0f25294dae81a55e02a6294875ae9b92f7cac 2026-09-08 23:54:35 -0600 abvhiael crowley feat(budtender): add deterministic BUD-1 store simulation core
+2c9e62fa7c1f464ce812e1464370501fea61f52f 2026-09-08 23:54:22 -0600 abvhiael crowley docs(budtender): define BUD-1 invariants and scope
+7485fea9a4cc01ef58715b4b3135c9f2b6b52da2 2026-09-08 23:54:08 -0600 abvhiael crowley docs(budtender): start BUD-1 minimum playable store
+09da467a8c36eb92cd71557572d25f0bab4fba6f 2026-09-08 23:37:45 -0600 abvhiael crowley test(gaming): cover Budtender shared access progression
+7e500e02f4a86ac7223b0066dc0f528bc2ca3ff2 2026-09-08 23:37:31 -0600 abvhiael crowley feat(gaming): add Budtender shared access model
+d34200fbb5705f30e6f561e06555e276bda0cb4a 2026-09-08 23:37:21 -0600 abvhiael crowley feat(gaming): add Budtender access client package
