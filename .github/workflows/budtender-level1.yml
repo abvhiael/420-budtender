@@ -33,7 +33,7 @@ jobs:
           npm run ops
       - name: Validate canonical SDK
         working-directory: packages/420-gaming-sdk
-        run: npm test
+        run: node --test test/contracts.test.js test/external-compat.test.js test/sdk.test.js
       - name: Validate isolated Budtender access
         working-directory: clients/budtender-access-v1
         run: npm test
