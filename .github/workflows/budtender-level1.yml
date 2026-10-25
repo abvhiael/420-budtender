@@ -7,6 +7,8 @@ on:
       - 'src/budtender/**'
       - 'packages/420-gaming-sdk/**'
       - 'assets/budtender/**'
+      - 'docs/budtender/**'
+      - 'docs/migration/**'
   pull_request:
 permissions:
   contents: read
