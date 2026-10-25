@@ -16,11 +16,12 @@ jobs:
       - name: Import source and evidence
         run: |
           git clone --depth 1 https://github.com/abvhiael/420-integrated-v0.1.git /tmp/genesis
-          mkdir -p clients scripts src
+          mkdir -p clients scripts src packages
           cp -a /tmp/genesis/clients/budtender-web-v1 clients/
           cp -a /tmp/genesis/clients/budtender-access-v1 clients/
           cp -a /tmp/genesis/scripts/budtender scripts/
           cp -a /tmp/genesis/src/budtender src/
+          cp -a /tmp/genesis/packages/420-gaming-sdk packages/
           printf 'Genesis source SHA: %s\n' "$(git -C /tmp/genesis rev-parse HEAD)" >> MIG-2-UPSTREAM.txt
       - name: Qualify independent web package
         working-directory: clients/budtender-web-v1
@@ -33,5 +34,5 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add clients scripts src MIG-2-UPSTREAM.txt
+          git add clients scripts src packages MIG-2-UPSTREAM.txt
           git diff --cached --quiet || (git commit -m 'MIG-2 Budtender: source and independent Level 1' && git push)
