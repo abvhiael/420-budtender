@@ -1,0 +1,8 @@
+{
+  "name": "@420/budtender-core-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:core": "node --experimental-strip-types --test test/budtender/*.spec.ts"
+  }
+}

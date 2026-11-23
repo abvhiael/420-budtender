@@ -1,0 +1,29 @@
+name: Budtender Standalone Core State and Recovery
+on:
+  pull_request:
+    paths:
+      - 'test/budtender/**'
+      - 'src/budtender/**'
+      - 'package.json'
+      - '.github/workflows/budtender-core-test.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  qualify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test exact source SHA and complete BUD-1–6 offline/recovery regression suite
+        env:
+          EXPECTED_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: |
+          test "$(git rev-parse HEAD)" = "$EXPECTED_SHA"
+          npm run test:core
